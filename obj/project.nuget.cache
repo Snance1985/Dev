@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2EMvsGrz8OLW2oIVfyo6m2Jcl20OVhUuZtTijHqt9fu9GOoKPkawKXZDMTAmPtSgzamU9qOrejllLZuM1dFWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sean_\\Desktop\\l07-ef\\l07_ef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
